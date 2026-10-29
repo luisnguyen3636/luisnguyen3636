@@ -115,6 +115,6 @@ Currently on summer break – available immediately for full-time on-site work.
 ---
 
 🔗 Connect with Me:
-📧 Khoa36015@gmail.com | 🔗 github.com/khoa36015 | 🎓 HTB: /users/2485929
+📧 Khoa36015@gmail.com | 🔗 github.com/luisnguyen3636 | 🎓 HTB: /users/2485929
 
 📌 "Building toward a full-time career as a Red Team Operator – one machine, one lab, one certification at a time."
