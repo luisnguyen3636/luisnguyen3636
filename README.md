@@ -3,7 +3,7 @@ Cybersecurity Enthusiast | Offensive Security & Red Team Operations
 
 "Focused on identifying attack surfaces and analyzing system misconfigurations to evaluate real-world security impact, rather than relying on tool-driven exploitation."
 
-📍 Ho Chi Minh City, Vietnam | 📧 Khoa36015@gmail.com | 🔗 github.com/khoa36015 | 🎓 HTB Profile: /users/2485929
+📍 Ho Chi Minh City, Vietnam | 📧 Khoa36015@gmail.com | 🔗 github.com/luisnguyen3636 | 🎓 HTB Profile: /users/2485929
 
 
 🎯 Career Goal
